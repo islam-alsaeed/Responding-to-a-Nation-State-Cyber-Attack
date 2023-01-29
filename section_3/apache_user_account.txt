@@ -1,0 +1,10 @@
+# Provide the configuration lines you will update to ensure that Apache launches with group name as "apache-group" and user account as "apache-user".
+
+
+#Configuration lines:
+
+
+
+# These need to be set in /etc/apache2/envvars
+User apache-user
+Group apache-group
