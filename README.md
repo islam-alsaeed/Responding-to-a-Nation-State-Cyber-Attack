@@ -1,5 +1,22 @@
 # Responding-to-a-Nation-State-Cyber-Attack
-Udacity Security Engineer Project 2
+<h3>Udacity Security Engineer Project 2</h3>
+<p>
+  <h3>Outcomes:</h3>
+  <ul>
+   <li>
+   Perform ClamAV scanning and conduct OpentVAS scan and provide snapshots of vulnerabilities identified.  
+   </li> 
+    <li>
+Investigate other Suspicious files that may not be detected by antivirus scanning and create YARA customs rule to detect unique malware.
+    </li>
+    <li>
+Implement a HIDS to analyze logs and events captured in the system and Collect IoC and create IPtables rules.
+    </li>
+    <li>
+Detect Backdoor Username, Process & Port, and disable SSH root access and Patching Apache and De-privilege Apache account.
+    </li>
+  </ul>
+</p>
 
 <h2>What Are We Doing?</h2>
 
